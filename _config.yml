@@ -1,0 +1,28 @@
+name: Harrington Life
+favicon: null
+layout_spectrum: 0.15601712302304804
+typography_spectrum: 0.8092896426096559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3684432723093778
+  lightness: 0.17279014945961535
+  saturation: 0.2394657963886857
+  rhythmicContrast: 0.4424132613930851
+purpose: []
