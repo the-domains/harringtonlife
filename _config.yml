@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.2394657963886857
+  saturation: 0.2394658
   brandStrength: 0.4881848
-  rhythmicContrast: 0.4424132613930851
+  lightness: 0.6836735
   brandColors:
     - '#8CCBF6'
     - '#181F2F'
     - '#41698C'
     - '#BC5C44'
     - '#AA2441'
-  lightness: 0.1727901494596153
+  rhythmicContrast: 0.4424133
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Harrington Life
 favicon: null
+name: Harrington Life
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.1208378
+typography_spectrum: 0.3388829
 layout_spectrum: 1
