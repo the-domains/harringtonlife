@@ -1,29 +1,41 @@
-name: Harrington Life
-favicon: null
-layout_spectrum: 0.15601712302304804
-typography_spectrum: 0.8092896426096559
 title: Harrington Life
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2394657963886857
+  brandStrength: 0.4881848
+  lightness: 0.1727901494596153
+  brandColors:
+    - '#8CCBF6'
+    - '#181F2F'
+    - '#41698C'
+    - '#BC5C44'
+    - '#AA2441'
+  rhythmicContrast: 0.4424132613930851
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Harrington Life
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3684432723093778
-  lightness: 0.17279014945961535
-  saturation: 0.2394657963886857
-  rhythmicContrast: 0.4424132613930851
-purpose: []
+typography_spectrum: 0.1552095
+layout_spectrum: 1
