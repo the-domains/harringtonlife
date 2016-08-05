@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2394657963886857
   brandStrength: 0.4881848
-  lightness: 0.1727901494596153
+  rhythmicContrast: 0.4424132613930851
   brandColors:
     - '#8CCBF6'
     - '#181F2F'
     - '#41698C'
     - '#BC5C44'
     - '#AA2441'
-  rhythmicContrast: 0.4424132613930851
+  lightness: 0.1727901494596153
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Harrington Life
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.1552095
+typography_spectrum: 0.1208378
 layout_spectrum: 1
