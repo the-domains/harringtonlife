@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Harrington Life]]></title>
+        <description><![CDATA[Harrington Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 18:51:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Which are you?]]></title>
+            <description><![CDATA[<article><h1>Which are you?</h1><p>I hope to be the bean. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f945c8bff5f85386728690589b226ac7/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft15.0-10%2Fp160x160%2F13670199_1275986562433660_488357924_n.jpg%3Foh%3D70243475159f8a0f1cd0b19e3cecb9c7%26oe%3D585C7A9A"></article>]]></description>
+            <link>https://www.facebook.com/HigherPerspective/videos/1275977475767902/</link>
+            <guid isPermaLink="false">49aaad91-d297-4e21-a9eb-46a983179261</guid>
+            <pubDate>Sat, 06 Aug 2016 18:51:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
